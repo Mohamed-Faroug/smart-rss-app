@@ -1,0 +1,21 @@
+{
+  "name": "المدائح السودانية",
+  "short_name": "المدائح",
+  "description": "أجمل المدائح النبوية والأذكار من أشهر المادحين السودانيين",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#fa6b28",
+  "orientation": "portrait-primary",
+  "categories": ["music", "entertainment", "lifestyle"],
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
